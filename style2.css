@@ -5,3 +5,7 @@ p {
 body {
     background-color: green;
 }
+
+div {
+    font-size: 40px;
+}
