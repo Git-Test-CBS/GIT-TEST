@@ -9,3 +9,6 @@ body {
 div {
     font-size: 40px;
 }
+p {
+    background-color: pink;
+}
